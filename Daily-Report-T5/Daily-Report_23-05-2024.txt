@@ -1,0 +1,9 @@
+Ngoc Bich: Daily Report 23/05/2024
+Yesterday: 
+• Research People Analytics 
+• Fix mindmap for role and layer 2 
+• Blocker: None 
+Today: 
+• Create mindmap for User personas in People Analytics 
+• Research Power BI
+Link: https://github.com/NguyenThiNgocBich/MentorshipProgram-PeopleAnalytics-Mindmap.git

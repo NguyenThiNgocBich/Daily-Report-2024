@@ -1,0 +1,17 @@
+Ngoc Bich :Daily Report 30/05/2024
+Yesterday: 
+•Research Power Bi
+•Fix dashboard People Analytics for chart Leave Analysis
++ Average Annual Leave Days
++ Average days on leave by Business Unit
+•Create
++ Cost of remaining annual leave
++ Avg. cost of Remaining Annual Leave
++ Average cost of remaining annual leave by Business Unit
+for chart Leave Analysis.
+Blocker: None
+To Day :
+•Create Summary Dashboards for role Director.
+Link github: https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard-Leave.git
+12:27
+14:49 30/05/2024

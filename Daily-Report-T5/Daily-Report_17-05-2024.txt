@@ -1,0 +1,11 @@
+Ngoc Bich : Daily report 17/5/2024
+Yesterday  
+- Create a signle mindmap for 3 user personas  ( HR manager, Production Manager , Employee: Production Operator ) 
+Blocked: none 
+Today 
+- Research : 
++ Chart 
++ Business 
+Fix mindmap and create mindmap version2
+Link : https://github.com/Bich9x/PeopleAnalytics-Mindmap-version-2.git
+

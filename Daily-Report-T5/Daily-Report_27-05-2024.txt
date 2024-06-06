@@ -1,0 +1,17 @@
+Ngoc Bich: Daily Report 27/05/2024
+• Yesterday:
+- Created a leave dashboard
+- Researched: Power BI, DAX functions
+• Blockers:
+- Don't know how to calculate:
+  - Cost of remaining annual leave
+  - Avg. cost of remaining annual leave
+  - Average cost of remaining annual leave by Business Unit
+- Don't know how to design in Power BI
+• Today:
+Created an HR dashboard with:
+  - Average Total Leave Days
+  - Average Annual Leave Days
+  - Annual Leave Balance
+  - Average days on leave by Business Unit.
+Link: https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard-Leave.git

@@ -1,0 +1,10 @@
+Ngoc Bich: Daily Report 31/05/2024
+Yesterday:
++ Completed Leave Analysis-dashboard.                 
+Blocker: None
+Today:
+•Create Summary dashboard
++ layout dashboard 
++ Create Employee chart
+Link: 
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard-Leave.git
