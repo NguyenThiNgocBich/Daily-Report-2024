@@ -1,0 +1,13 @@
+Ngoc Bich: Daily Report 13/06/2024
+Yesterday: 
+• Continue fix : Total Sick Days by Age Range chart 
++ Completed Absenteeism dashboard for rolle Director.
+• Research dax functions
+• Reasearch 3-30-300 rules
++ Create Salary Analysis dashboard  for rolle Director.
+ToDay: 
+• Research dax functions
++ Continue Create Salary Analysis dashboard for rolle Director.
+Link github: 
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard.git
+Blocker: None

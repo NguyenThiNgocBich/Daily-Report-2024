@@ -1,0 +1,11 @@
+Ngoc Bich: Daily Report 11/06/2024
+Yesterday 
+• Research Dax function
++ Create continue absenteeism dashboard: Average Sick Days by Business Unit, Total Sick Days by Age Range ...
+ToDay:
+• Fix layout / chart 
++ Total Sick Days by Age Range chart 
+• Completed Absenteeism dashboard for rolle Director.
+Link Github: 
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard.git
+Blocker: None

@@ -1,0 +1,13 @@
+Ngoc Bich : Daily Report 08/06/2024
+Yesterday
+• Research Dax function continue create Training dashboard 
++ Completed Program 
++ Training Cost 
+Today 
+People Analytics-Director 
++ Completed : Training dashboard
+• Research Dax function
++ Create  Absenteeism dashboard .         
+• Reasearch learn code 
+Link github: https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard.git
+Blocker: None

@@ -1,0 +1,15 @@
+Ngoc Bich: Daily report 06/06/2024
+Yesterday
+• Reasearch / Learn Dax functions
+• Director summary dashboard 
++ Hiring: fix hires by contract type chart.
+• Create Training dashboard  
++ Training Program,Participants,Man Hours spent in training..
+Blocker: None
+To day 
+• Completed Summary dashboard                                           
+• Create Training dashboard 
++ Completed Program 
++ Training Man Hours by Month 
+Link github: 
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard-Leave.git

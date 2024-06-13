@@ -1,0 +1,13 @@
+Ngoc Bich: Daily Report 09/06/2024
+Yesterday
+People Analytics-Director 
++ Completed : Training dashboard
+• Research Dax function
++ Create  Absenteeism dashboard .       
+• Reasearch learn code 
+ToDay
+• Research Dax function
+• Research 3-30-300 rule
++ Create Absenteeism dashboard 
+Link github: None
+Blocker: None
