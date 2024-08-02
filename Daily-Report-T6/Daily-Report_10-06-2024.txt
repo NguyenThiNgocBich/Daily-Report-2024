@@ -3,9 +3,17 @@ Yesterday:
 • Research Dax function
 • Research 3-30-300 rule
 + Create Absenteeism dashboard :  Average Total Leave Days, Average Sick Leave Days ...
+<<<<<<< HEAD
+=======
+Blocker: None
+>>>>>>> ea9dd2822ad3f050b01b073259ad00aa16988a66
 Today:
 • Research Dax function
 + Create continue absenteeism dashboard.
 Link github: 
+<<<<<<< HEAD
 https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard.git
 Blocker: None
+=======
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard.git
+>>>>>>> ea9dd2822ad3f050b01b073259ad00aa16988a66
