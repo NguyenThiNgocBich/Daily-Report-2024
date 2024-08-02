@@ -1,0 +1,13 @@
+Ngoc Bich : Daily report 05/06/2024
+Yesterday
+• Director- Summary dashboard 
++ Diversity: fix female % of senniors chart
++ Fix layout summary dashboard
++ Leave Days : Create cost of total remaining annual leave.
+Blocker: None
+Today
+• Reasearch / Learn Dax functions
+• Director summary dashboard 
++ Hiring: fix hires by contract type chart.
+• Create Training dashboard for rolle Director. 
+Link Github: None

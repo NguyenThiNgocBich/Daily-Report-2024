@@ -1,0 +1,8 @@
+Ngoc Bich : Daily Report 17/06/2024
+Yesterday: None
+Today
+• Continue edit the dashboard in the form 3-30-300
++ Salary dashboard for rolle director
+Blocker: None
+Link github:
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard.git

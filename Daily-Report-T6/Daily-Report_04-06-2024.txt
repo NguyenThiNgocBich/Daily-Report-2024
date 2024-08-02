@@ -1,0 +1,12 @@
+Ngoc Bich : Daily report 04/06/2024
+Yesterday
+ • Director- Summary dashboard 
++ Create Termination chart : Attrition Rate by Seniority chart and Attrition Rate by Tenure Range chart.
+Blocker: None
+Today
+ • Director summary dashboard 
++ Diversity: fix Female % of senniors chart
++ Fix layout summary dashboard
++ Leave Days : Create cost of total remaining annual leave.
+Link github :
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard-Leave.git

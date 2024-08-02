@@ -1,0 +1,10 @@
+Ngoc Bich : Daily Report 16/06/2024
+Yesterday:
+• Continue Research :
++Do exercise 8-Week-SQL-Challenge: Case Study #1: Danny's Diner
+• Edit the dashboard in the form 3-30-300
+Today
+• Continue research :do exercise 8-Week-SQL-Challenge : Learn Case Study #2 - Pizza.
+• Continue edit the dashboard in the form 3-30-300
+Blocker: None
+Link github: None

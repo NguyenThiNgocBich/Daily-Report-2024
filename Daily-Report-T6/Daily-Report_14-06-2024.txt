@@ -1,0 +1,11 @@
+Ngoc Bich : Daily Report 14/06/2024
+Yesterday:
+• Research dax functions
+• Continue Create Salary Analysis dashboard for rolle:
++ Completed  Salary Analysis dashboard.
+Today
+• Fix Summary dashboard .
+• Research : https://www.w3schools.com/
++Do exercise 8-Week-SQL-Challenge
+Blocker: None
+Link github: None

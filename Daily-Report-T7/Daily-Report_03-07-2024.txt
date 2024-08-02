@@ -1,0 +1,10 @@
+Ngoc Bich: Daily Report 03/07/2024
+Yesterday:
+• Do exercise 8-Week-SQL-Challenge: Case Study #4: Data Bank (Done)
+• Complete recruitment dashboad for rolle Director .
+Today:
+• Do exercise 8-Week-SQL-Challenge: Case Study #5: Data Mart
+Link github:
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard.git
+https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

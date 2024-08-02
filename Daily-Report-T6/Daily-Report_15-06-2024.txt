@@ -1,0 +1,11 @@
+Ngoc Bich : Daily Report 15/06/2024
+Yesterday:
+• Fix Summary dashboard .
+• Research : https://www.w3schools.com/
++Do exercise 8-Week-SQL-Challenge
+Today
+• Continue Research :
++Do exercise 8-Week-SQL-Challenge: Case Study #1: Danny's Diner
+• Edit the dashboard in the form 3-30-300
+Blocker: None
+Link github: None

@@ -1,0 +1,8 @@
+Ngoc Bich: Daily Report 19/07/2024
+Yesterday:
+- Install Flowgorithm tool  : http://www.flowgorithm.org/download/index.html
+- Research tutorials (Beginner Course) : https://www.testingdocs.com/flowgorithm-flowchart-tutorial/
+Today
+- Reasearch do exercises about flowchart.
+Link github:  None
+Blocker: None

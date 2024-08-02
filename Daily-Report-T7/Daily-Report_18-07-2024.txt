@@ -1,0 +1,8 @@
+Ngoc Bich: Daily Report 18/07/2024
+Yesterday:
+• Continue do exercise 8-Week-SQL-Challenge: Case Study #7 : Balanced Tree Clothing Co-C. Product Analysis( Done)
+Today:
+• Install Flowgorithm tool  : http://www.flowgorithm.org/download/index.html
+• Research tutorials (Beginner Course) : https://www.testingdocs.com/flowgorithm-flowchart-tutorial/
+Link github: https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

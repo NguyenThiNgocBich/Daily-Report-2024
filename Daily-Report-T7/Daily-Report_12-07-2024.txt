@@ -1,0 +1,7 @@
+Ngoc Bich: Daily Report 12/07/2024
+Yesterday:
+• Do exercise sql challenge session 1
+Today:
+•  Do exercise sql challenge session 2 , session 3.
+Link github: https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

@@ -1,0 +1,11 @@
+Ngoc Bich : Daily Report 10/06/2024
+Yesterday: 
+• Research Dax function
+• Research 3-30-300 rule
++ Create Absenteeism dashboard :  Average Total Leave Days, Average Sick Leave Days ...
+Today:
+• Research Dax function
++ Create continue absenteeism dashboard.
+Link github: 
+https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard.git
+Blocker: None

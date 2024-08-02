@@ -1,0 +1,13 @@
+Ngoc Bich: Daily report 07/06/2024
+Yesterday
+• Completed Summary dashboard                                           
+• Create Training dashboard 
++ Completed Program 
++ Training Man Hours by Month 
+Research git/Summary and upload daily report to github .
+To day                                           
+• Research Dax function continue create Training dashboard 
++ Completed Program 
++ Training Man Hours by Month 
+Link github: None
+Blocker: None

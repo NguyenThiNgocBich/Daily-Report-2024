@@ -1,0 +1,10 @@
+Ngoc Bich: Daily Report 27/06/2024
+Yesterday:
+• Complete do exercise 8-Week-SQL-Challenge: Learn Case Study #2 - Pizza Runner B
+• Continue do exercise 8-Week-SQL-Challenge: Learn Case Study #2- Ingredient Optimisation C
+Today:
+• Continue do exercise 8-Week-SQL-Challenge: Learn Case Study #2- Ingredient Optimisation C.
+• Do exercise 8-Week-SQL-Challenge: Case Study #3 - Foodie-Fi
+Link github:
+https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

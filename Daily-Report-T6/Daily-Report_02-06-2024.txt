@@ -1,0 +1,12 @@
+Ngoc Bich: Daily report 02/06/2024
+Yesterday: 
+• Director- Summary dashboard : 
++ Create Diversity chart
++ Create Hiring chart                                                          
++ Create Leave days chart   
+Blocker: None
+To day: 
+• Director- Summary dashboard : 
++ Diversity chart : fix female % seniors .
++ Create Termination chart : Terminations , Termination by category. 
+Link github : None 

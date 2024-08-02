@@ -1,0 +1,8 @@
+Ngoc Bich: Daily Report 05/07/2024
+Yesterday:
+• Do exercise 8-Week-SQL-Challenge: Case Study #5: Data Mart: Complete Part A, Part B 1-5 (Done)
+Today:
+• Continue exercise 8-Week-SQL-Challenge: Case Study #5: Data Mart: Part B 5-10 , Part C (In progress)
+Link github:
+https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

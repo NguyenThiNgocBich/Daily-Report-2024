@@ -1,0 +1,10 @@
+Ngoc Bich: Daily Report 01/06/2024
+• Yesterday:                                                         
++ Create Employee chart
++ Complete  Director_Leave analysis_Dashboard.                                 
+  Blocker : None
+• Today:
++ Create Diversity chart
++ Create Hiring chart                                
++ Create Leave days chart                                
+Link github: https://github.com/NguyenThiNgocBich/PeopleAnalytics-dashBoard-Leave.git

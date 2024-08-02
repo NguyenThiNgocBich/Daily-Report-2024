@@ -1,0 +1,7 @@
+Ngoc Bich: Daily Report 25/07/2024
+Yesterday:
+- Complete Flowgorithm's Exercise assigned by mentor on 18/07/2024 (Done)
+Today
+- Do exercises of the Flowchart 23/07/2024
+Link github: https://github.com/NguyenThiNgocBich/Exercise-flowchart-18_07_2024.git
+Blocker: None

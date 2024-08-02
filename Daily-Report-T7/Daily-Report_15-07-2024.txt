@@ -1,0 +1,7 @@
+Ngoc Bich: Daily Report 15/07/2024
+Yesterday:
+• Completed exercise 8-Week-SQL-Challenge: Case Study #7 : Balanced Tree Clothing Co-A High Level Sales Analysis (Done)
+Today:
+• Do exercise 8-Week-SQL-Challenge: Case Study #7 : Balanced Tree Clothing Co-B Transaction Analysis
+Link github: https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

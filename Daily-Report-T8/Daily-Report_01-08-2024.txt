@@ -1,0 +1,8 @@
+Ngoc Bich: Daily Report 1/08/2024
+Yesterday: none
+Today:
+- Compete do exercises of the Flowchart 23/07/2024 : question 3
+- Update daily report to github
+- Start convert from flowchart to python at 18/7/2024: question 1
+Link github: https://github.com/NguyenThiNgocBich/Exercise-flowchart-23_07_2024.git
+Blocker: None

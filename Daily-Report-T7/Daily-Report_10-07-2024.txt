@@ -1,0 +1,9 @@
+Ngoc Bich: Daily Report 10/07/2024
+Yesterday:
+- Complete do exercise 8-Week-SQL-Challenge: Case Study #6: Clique Bait A (In Progress)
+Today:
+- Completed do exercise 8-Week-SQL-Challenge: Case Study #6: Clique Bait A (Done)
+- Continue do exercise 8-Week-SQL-Challenge: Case Study #6: Clique Bait B
+Link github:
+https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

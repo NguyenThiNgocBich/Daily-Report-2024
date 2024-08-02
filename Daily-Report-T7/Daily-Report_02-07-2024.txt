@@ -1,0 +1,6 @@
+Ngoc Bich: Daily Report 02/07/2024
+Yesterday: None
+Today:
+• Do exercise 8-Week-SQL-Challenge: Case Study #4: Data Bank (In Progress)
+Link github: https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

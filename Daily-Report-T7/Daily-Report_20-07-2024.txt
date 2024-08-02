@@ -1,0 +1,7 @@
+Ngoc Bich: Daily Report 20/07/2024
+Yesterday:
+- Reasesearch do exercises for the flowchart: question 1 , 2 (done)
+Today
+- Update exercises to github
+Link github: https://github.com/NguyenThiNgocBich/Exercise-flowchart-18_07_2024.git
+Blocker: None

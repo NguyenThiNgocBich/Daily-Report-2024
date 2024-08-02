@@ -1,0 +1,11 @@
+Ngoc Bich: Daily Report 02/08/2024
+Yesterday:
+- Competed do exercises of the Flowchart 23/07/2024 : question 3 (done)
+- Completed convert from flowchart to python at 18/7/2024: question 1 (done)
+- Update daily report to github
+Today:
+- Continue update daily report to github
+- Continue convert from flowchart to python at 18/7/2024: question 2
+- Research solid, tdd, clean code.
+Link github: https://github.com/NguyenThiNgocBich/Exercise_18072024_Code.git
+Blocker: None

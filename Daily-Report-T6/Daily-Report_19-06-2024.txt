@@ -1,0 +1,9 @@
+Ngoc Bich : Daily Report 19/06/2024
+Yesterday:
+• Continue Research : do exercise 8-Week-SQL-Challenge:  week1
+• Create Employee dashboard for rolle director
+Today
+• Continue research :do exercise 8-Week-SQL-Challenge : week1
+• Continue create employee dashboard for rolle director.
+Link github: None
+Blocker: None

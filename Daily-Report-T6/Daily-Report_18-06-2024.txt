@@ -1,0 +1,11 @@
+Ngoc Bich : Daily Report 18/06/2024
+Yesterday:
+• Continue edit the dashboard in the form 3-30-300
++ Salary dashboard.
+Today
+• Continue edit the dashboard in the form 3-30-300
++Create Employee dashboard for rolle director
+• Continue research :do exercise 8-Week-SQL-Challenge :
+Learn Case Study #2 - Pizza.
+Blocker: None
+Link github: None
