@@ -1,0 +1,8 @@
+Ngoc Bich: Daily Report 05/08/2024
+Yesterday:
+•  Continue research clean code .
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+Today:
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".                • Research design pattern .
+Link to GitHub: None
+Blocker: None

@@ -1,0 +1,7 @@
+Ngoc Bich: Daily Report 21/08/2024
+Yesterday:
+• Create mindmap database for Digital Asset Management
+Today:
+• Add simple data  for Digital Asset Management
+Link to GitHub: https://github.com/NguyenThiNgocBich/Project-Digital-Asset-Management.git
+Blocker: None

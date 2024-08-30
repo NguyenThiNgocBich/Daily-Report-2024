@@ -1,0 +1,9 @@
+Ngoc Bich: Daily Report 09/08/2024
+Yesterday:
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+• Review all flowchart and Python code exercises
+Today:
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+•  Do exercise 8-Week-SQL-Challenge: Case Study 8: Fresh Segments
+Link to GitHub: None
+Blocker: None

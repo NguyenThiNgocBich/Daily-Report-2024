@@ -1,0 +1,8 @@
+Ngoc Bich: Daily Report 16/08/2024
+Yesterday:
+•  Completed do exercise 8-Week-SQL-Challenge: Case Study 8: Fresh Segments: C. Segment Analysis (done)
+Today:
+•  Continue do exercise 8-Week-SQL-Challenge: Case Study 8: Fresh Segments: D. Index Analysis
+•  Update daily report to github
+Link to GitHub: https://github.com/NguyenThiNgocBich/8-week-sql-challenge.git
+Blocker: None

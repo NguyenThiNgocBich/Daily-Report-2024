@@ -1,0 +1,10 @@
+Ngoc Bich: Daily Report 06/08/2024
+Yesterday:
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+• Research design pattern :  Creational Pattern, Structural Pattern, Behavioral Pattern.
+Today:
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+• Continue research design pattern : Singleton, Factory Method, Abstract Factory, Builder, Prototype
+• Start convert from flowchart to python at 23/07/2024: question 1
+Link to GitHub: None
+Blocker: None

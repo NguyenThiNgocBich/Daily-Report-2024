@@ -1,0 +1,9 @@
+Ngoc Bich: Daily Report 08/08/2024
+Yesterday:
+• Completed convert from flowchart to python at 23/07/2024: question 2, question 3 (done)
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+Today:
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+• Review all flowchart and Python code exercises
+Link to GitHub: https://github.com/NguyenThiNgocBich/Python_code.git
+Blocker: None

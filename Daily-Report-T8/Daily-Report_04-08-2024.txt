@@ -1,0 +1,10 @@
+Ngoc Bich: Daily Report 04/08/2024
+Yesterday:
+•  Completed converting from flowchart to Python for 18/7/2024: Questions 3, 4, and 5 (done).
+•  Continue research SOLID principles, TDD, and clean code (In progress)
+•  Research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+Today:
+• Continue research clean code .
+• Continue research the book: "Programming Logic and Design Comprehensive 8th Edition ".
+Link to GitHub: None
+Blocker: None

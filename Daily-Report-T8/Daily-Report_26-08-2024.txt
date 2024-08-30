@@ -1,0 +1,6 @@
+Ngoc Bich: Daily Report 26/08/2024
+Yesterday: None
+Today:
+• Continue learn C# for W3schools
+Link to GitHub: None
+Blocker: None

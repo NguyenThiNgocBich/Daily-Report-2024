@@ -1,0 +1,7 @@
+Ngoc Bich: Daily Report 22/08/2024
+Yesterday:
+• Add simple data  for Digital Asset Management
+Today:
+• Learn C#  at W3schools
+Link to GitHub: https://github.com/NguyenThiNgocBich/Project-Digital-Asset-Management.git
+Blocker: None
